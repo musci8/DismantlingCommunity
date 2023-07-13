@@ -1,0 +1,5 @@
+pandas
+igraph
+leidenalg
+numpy
+scikit-learn
